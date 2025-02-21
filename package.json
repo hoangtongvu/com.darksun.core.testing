@@ -1,5 +1,5 @@
 {
-  "name": "Core.Testing",
+  "name": "com.darksun.core.testing",
   "description": "Testing library for Unity.Entities.",
   "version": "1.0",
   "unity": "2022.3.16f1",
