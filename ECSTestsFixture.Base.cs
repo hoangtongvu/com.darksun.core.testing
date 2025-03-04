@@ -16,7 +16,7 @@ namespace Core.Testing
         }
 
         [TearDown]
-        public void TearDown()
+        public virtual void TearDown()
         {
             World.Dispose();
         }
